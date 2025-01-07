@@ -11,10 +11,5 @@
       "src": "/(.*)",
       "dest": "main.py"
     }
-  ],
-  "build": {
-    "env": {
-      "PIP_DISABLE_VERSION_CHECK": "1"
-    }
-  }
+  ]
 }
